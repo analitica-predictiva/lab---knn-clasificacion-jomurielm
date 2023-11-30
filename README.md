@@ -1,0 +1,3 @@
+# Laboratorio
+
+Modelo KNeighborsClassifier
